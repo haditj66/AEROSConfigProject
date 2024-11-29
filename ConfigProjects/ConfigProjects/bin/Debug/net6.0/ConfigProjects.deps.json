@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConfigProjects/1.0.0": {
+        "dependencies": {
+          "CgenMin": "1.0.0.0"
+        },
+        "runtime": {
+          "ConfigProjects.dll": {}
+        }
+      },
+      "CgenMin/1.0.0.0": {
+        "runtime": {
+          "CgenMin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Stateless/4.0.0.0": {
+        "runtime": {
+          "Stateless.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.16.0.0"
+          }
+        }
+      },
+      "CommandLine/2.9.1.0": {
+        "runtime": {
+          "CommandLine.dll": {
+            "assemblyVersion": "2.9.1.0",
+            "fileVersion": "2.9.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConfigProjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CgenMin/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stateless/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandLine/2.9.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

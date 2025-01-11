@@ -3,42 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\AAAConfigProj\\ConfigProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E67A1D53-DD61-41DD-9863-EC85593F1E2E}|ConfigProjects\\ConfigProjects.csproj|c:\\users\\syncthingserviceacct\\qr_sync\\world2\\config\\world2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67A1D53-DD61-41DD-9863-EC85593F1E2E}|ConfigProjects\\ConfigProjects.csproj|c:\\users\\syncthingserviceacct\\qr_sync\\sometest\\config\\sometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E67A1D53-DD61-41DD-9863-EC85593F1E2E}|ConfigProjects\\ConfigProjects.csproj|c:\\users\\syncthingserviceacct\\qr_sync\\aaaconfigproj\\configprojects\\configprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E67A1D53-DD61-41DD-9863-EC85593F1E2E}|ConfigProjects\\ConfigProjects.csproj|solutionrelative:configprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67A1D53-DD61-41DD-9863-EC85593F1E2E}|ConfigProjects\\ConfigProjects.csproj|c:\\users\\syncthingserviceacct\\qr_sync\\cablecam\\config\\cablecam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSPublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRTargetCmake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AONode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AOSurrogatePattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QREvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRTarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FunctionArgsBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSSubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67A1D53-DD61-41DD-9863-EC85593F1E2E}|ConfigProjects\\ConfigProjects.csproj|c:\\users\\syncthingserviceacct\\qr_sync\\aaaconfigproj\\configprojects\\configprojects\\configprojects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E67A1D53-DD61-41DD-9863-EC85593F1E2E}|ConfigProjects\\ConfigProjects.csproj|solutionrelative:configprojects\\configprojects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E67A1D53-DD61-41DD-9863-EC85593F1E2E}|ConfigProjects\\ConfigProjects.csproj|c:\\users\\syncthingserviceacct\\qr_sync\\world2\\config\\world2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ServiceFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRInitializing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FunctionArgsBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67A1D53-DD61-41DD-9863-EC85593F1E2E}|ConfigProjects\\ConfigProjects.csproj|c:\\users\\syncthingserviceacct\\qr_sync\\sometest\\config\\sometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AOSurrogatePattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,37 +55,25 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 87,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QRConfig.cs",
-              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs",
-              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs",
-              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs",
-              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAwGkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ROSPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSPublisher.cs",
+              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSPublisher.cs",
+              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSPublisher.cs",
+              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSPublisher.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAQwIsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T16:17:00.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AONode.cs",
-              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AONode.cs",
-              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AONode.cs",
-              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AONode.cs",
-              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AONode.cs",
-              "ViewState": "AgIAAF4BAAAAAAAAAAAmwGkBAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:33:11.919Z",
+              "WhenOpened": "2025-01-10T01:38:53.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "FunctionArgsBase.cs",
               "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FunctionArgsBase.cs",
               "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FunctionArgsBase.cs",
@@ -85,7 +81,21 @@
               "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FunctionArgsBase.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAnwGQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T09:08:07.49Z"
+              "WhenOpened": "2024-11-25T09:08:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AONode.cs",
+              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AONode.cs",
+              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AONode.cs",
+              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AONode.cs",
+              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AONode.cs",
+              "ViewState": "AgIAABUCAAAAAAAAAAAQwCoCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:33:11.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,42 +107,120 @@
               "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRConfig.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T00:54:43.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QRConfig.cs",
+              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs",
+              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs",
+              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRConfig.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwGkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:17:00.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QRInitializing.cs",
+              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRInitializing.cs",
+              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRInitializing.cs",
+              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRInitializing.cs",
+              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRInitializing.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAQwOsBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:06:41.842Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 313,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 213,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QRTarget.cs",
-              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRTarget.cs",
-              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRTarget.cs",
-              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRTarget.cs",
-              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QRTarget.cs",
-              "ViewState": "AgIAACABAAAAAAAAAAAowDoBAAAYAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "QRTargetCmake.cs",
+              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRTargetCmake.cs",
+              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRTargetCmake.cs",
+              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRTargetCmake.cs",
+              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\FilesToGenerate\\QRTargetCmake.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwGIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T03:15:39.768Z",
-              "IsPinned": true
+              "WhenOpened": "2024-12-16T03:41:40.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cablecam.cs",
+              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\cablecam\\config\\cablecam.cs",
+              "RelativeDocumentMoniker": "..\\..\\cablecam\\config\\cablecam.cs",
+              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\cablecam\\config\\cablecam.cs",
+              "RelativeToolTip": "..\\..\\cablecam\\config\\cablecam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:27:42.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceFunction.cs",
+              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ServiceFunction.cs",
+              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ServiceFunction.cs",
+              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ServiceFunction.cs",
+              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ServiceFunction.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:00:31.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QREvent.cs",
+              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QREvent.cs",
+              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QREvent.cs",
+              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QREvent.cs",
+              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\QREvent.cs",
+              "ViewState": "AgIAAHgCAAAAAAAAAAAgwI4CAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:39:49.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\AAAConfigProj\\ConfigProjects\\ConfigProjects\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigProjects\\Program.cs",
+              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\AAAConfigProj\\ConfigProjects\\ConfigProjects\\Program.cs*",
+              "RelativeToolTip": "ConfigProjects\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:22:47.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "world2.cs",
               "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\world2\\config\\world2.cs",
               "RelativeDocumentMoniker": "..\\..\\world2\\config\\world2.cs",
               "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\world2\\config\\world2.cs",
               "RelativeToolTip": "..\\..\\world2\\config\\world2.cs",
-              "ViewState": "AgIAALcAAAAAAAAAAAAYwNcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowI4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T03:53:22.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "AOSurrogatePattern.cs",
               "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AOSurrogatePattern.cs",
               "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AOSurrogatePattern.cs",
@@ -140,70 +228,33 @@
               "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\AOSurrogatePattern.cs",
               "ViewState": "AgIAAMkBAAAAAAAAAAAmwN0BAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:29:00.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T09:29:00.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\AAAConfigProj\\ConfigProjects\\ConfigProjects\\Program.cs",
-              "RelativeDocumentMoniker": "ConfigProjects\\Program.cs",
-              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\AAAConfigProj\\ConfigProjects\\ConfigProjects\\Program.cs",
-              "RelativeToolTip": "ConfigProjects\\Program.cs",
-              "ViewState": "AgIAAP8AAAAAAAAAAAAAADEBAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T03:22:47.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "sometest.cs",
               "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\sometest\\config\\sometest.cs",
               "RelativeDocumentMoniker": "..\\..\\sometest\\config\\sometest.cs",
               "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\sometest\\config\\sometest.cs",
               "RelativeToolTip": "..\\..\\sometest\\config\\sometest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAB5AAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAlwKUAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T01:41:47.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ROSSubscriber.cs",
-              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSSubscriber.cs",
-              "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSSubscriber.cs",
-              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSSubscriber.cs",
-              "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSSubscriber.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAnwFcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T18:16:41.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ConfigProjects.csproj",
-              "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\AAAConfigProj\\ConfigProjects\\ConfigProjects\\ConfigProjects.csproj",
-              "RelativeDocumentMoniker": "ConfigProjects\\ConfigProjects.csproj",
-              "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\AAAConfigProj\\ConfigProjects\\ConfigProjects\\ConfigProjects.csproj",
-              "RelativeToolTip": "ConfigProjects\\ConfigProjects.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T01:12:44.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "ROSTimer.cs",
               "DocumentMoniker": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSTimer.cs",
               "RelativeDocumentMoniker": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSTimer.cs",
               "ToolTip": "C:\\Users\\SyncthingServiceAcct\\QR_Sync\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSTimer.cs",
               "RelativeToolTip": "..\\..\\CgenMin\\CgenMin\\MacroProcesses\\QR\\ROSTimer.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:56:07.883Z"
+              "WhenOpened": "2024-11-13T10:56:07.883Z",
+              "EditorCaption": ""
             }
           ]
         }

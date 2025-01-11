@@ -45,8 +45,9 @@ namespace testaertosproj
 
 #if (TEST_AEGENERATE && !TEST_AESELECT && !TEST_AEINIT)
             // CodeGenerator.Program._envIronDirectory = @"C:\\Users\\SyncthingServiceAcct\\QR_Sync\\world2";
-            CodeGenerator.Program._envIronDirectory = @"/home/hadi/QR_Sync/world2";
+            //CodeGenerator.Program._envIronDirectory = @"/home/hadi/QR_Sync/world2";
             //CodeGenerator.Program._envIronDirectory = @"C:\\Users\\SyncthingServiceAcct\\QR_Sync\\sometest";
+            CodeGenerator.Program._envIronDirectory = @"C:\\Users\\SyncthingServiceAcct\\QR_Sync\\cablecam";
             //string typeOfTheProject = "c";
             //string selectedTargetName = "defaultTest";
             string selectedTargetName = "defaultTestRos";

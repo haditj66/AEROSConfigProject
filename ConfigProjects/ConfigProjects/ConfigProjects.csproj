@@ -10,6 +10,7 @@
     <Compile Include="..\..\..\world2\config\world2.cs" Link="world2.cs" />
     <Compile Include="..\..\..\world\config\world.cs" Link="world.cs" />
     <Compile Include="..\..\..\sometest\config\sometest.cs" Link="sometest.cs" />
+    <Compile Include="..\..\..\cablecam\config\cablecam.cs" Link="cablecam.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="CgenMin">
